@@ -1,0 +1,48 @@
+Explain the purpose of comments in HTML and provide an example of how to use comments in an HTML
+documents ?
+
+ANS:-
+
+1. The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers.
+2. Its is use comments to explain your code
+3. There are two type of comments 1.single line comment 2. multi line comment
+
+
+ex:-
+1.single line comment:-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <!-- This is  heading tag -->
+
+    <h1>"HTML defines the content and structure of your website" on the web browser?</h1>
+    
+</body>
+</html>
+
+2. multiline comment:-
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <!-- This
+   is 
+    heading
+     tag -->
+
+    <h1>"HTML defines the content and structure of your website" on the web browser?</h1>
+    
+</body>
+</html>
